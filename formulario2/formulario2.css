@@ -1,0 +1,10 @@
+
+#userInputBox{
+    width: 50%;
+}
+#usuarioYaExiste{
+    display: none;
+    color: red;
+    font-size: 13px;
+    font-weight: bold;
+}
